@@ -9,4 +9,4 @@ export default class DisplayData extends React.Component {
             </div>
         )
     }
-} 
+}
